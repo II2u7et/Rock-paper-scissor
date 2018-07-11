@@ -1,0 +1,6 @@
+D:\Weltec\Yr2-Tr2\Programming II\Assignmnent 1\PartII-Q3\PartII-Q3\obj\Debug\PartII-Q3.csprojResolveAssemblyReference.cache
+D:\Weltec\Yr2-Tr2\Programming II\Assignmnent 1\PartII-Q3\PartII-Q3\bin\Debug\PartII-Q3.exe.config
+D:\Weltec\Yr2-Tr2\Programming II\Assignmnent 1\PartII-Q3\PartII-Q3\bin\Debug\PartII-Q3.exe
+D:\Weltec\Yr2-Tr2\Programming II\Assignmnent 1\PartII-Q3\PartII-Q3\bin\Debug\PartII-Q3.pdb
+D:\Weltec\Yr2-Tr2\Programming II\Assignmnent 1\PartII-Q3\PartII-Q3\obj\Debug\PartII-Q3.exe
+D:\Weltec\Yr2-Tr2\Programming II\Assignmnent 1\PartII-Q3\PartII-Q3\obj\Debug\PartII-Q3.pdb
